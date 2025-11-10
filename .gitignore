@@ -1,0 +1,24 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+ci1302_bluetooth_system
+example_usage
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db
